@@ -2,7 +2,8 @@
 Web Page com tema do theboys da primevideo
 
 
-Ferramentas
+Tecnologias
+
 - HTML
 - CSS
 
